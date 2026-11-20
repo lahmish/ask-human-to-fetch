@@ -1,0 +1,21 @@
+{
+  "name": "ask-human-to-fetch",
+  "version": "0.1.0",
+  "description": "Get a website's content from a URL by asking a human to fetch it. The bundled ask-human-to-fetch.py script sends the request to a human, who fetches the page and returns its content.",
+  "author": {
+    "name": "Shai Lahmish",
+    "url": "https://github.com/lahmish"
+  },
+  "homepage": "https://github.com/lahmish/ask-human-to-fetch",
+  "repository": "https://github.com/lahmish/ask-human-to-fetch",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "web",
+    "fetch",
+    "url",
+    "human-in-the-loop",
+    "agent-skills"
+  ],
+  "icon": "assets/icon.png"
+}

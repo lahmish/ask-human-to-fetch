@@ -1,0 +1,20 @@
+{
+  "name": "lahmish",
+  "owner": {
+    "name": "Shai Lahmish",
+    "url": "https://github.com/lahmish"
+  },
+  "metadata": {
+    "description": "Agent skills by Shai Lahmish."
+  },
+  "plugins": [
+    {
+      "name": "ask-human-to-fetch",
+      "source": "./",
+      "description": "Get a website's content from a URL by asking a human to fetch it.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "category": "productivity"
+    }
+  ]
+}
